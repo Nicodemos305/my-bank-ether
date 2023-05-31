@@ -47,6 +47,8 @@ class EtherService {
       throw new Error('Erro ao obter o saldo da conta');
     }
   }
+
 }
+
 
 module.exports = EtherService;
